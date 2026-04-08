@@ -19,3 +19,5 @@ Minecraft plugin dev · Backend learner
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ---
+
+📬 molfin5015@naver.com
