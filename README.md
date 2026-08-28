@@ -1,4 +1,4 @@
-# Park Jonghyun (Myongji University - Computer Engineering) &nbsp;
+# Park Jonghyun &nbsp;
 
 Minecraft plugin dev · Backend learner
 
